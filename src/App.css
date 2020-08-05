@@ -17,3 +17,14 @@ header:hover{
   font-size: 3rem;
 }
 
+img{
+  padding: 5px;
+  width: 200px;
+  height: 200px;
+}
+
+ol, ul {
+  display:flex;
+  flex-wrap: wrap;
+	list-style: none;
+}
